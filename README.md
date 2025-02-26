@@ -19,10 +19,9 @@ I am passionate about continuous learning and actively seek opportunities to col
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/12708299?v=4"  />
+<img align="right" height="150" src="./code.png"  />
 
 ###
-
 
 ---
 
