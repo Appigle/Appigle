@@ -19,7 +19,7 @@ I am passionate about continuous learning and actively seek opportunities to col
 
 ###
 
-<img align="right" height="150" src="./code.png"  />
+<img align="right" height="150" src="./code.gif"  />
 
 ###
 
