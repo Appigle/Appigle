@@ -15,15 +15,16 @@ I am a Senior Software Engineer specializing in developing user-friendly softwar
 - **Backend:** Node.js, Java, C#, SQL
 - **Cloud:** AWS, Terraform, Linux
 
-I am passionate about continuous learning and actively seek opportunities to collaborate within the developer community.
-
----
+I am passionate about continuous learning and actively seek opportunities to collaborate within the developer community. Beyond coding, I enjoy exploring new technologies and contributing to projects that enhance user experiences.
 
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/12708299?v=4"  />
 
 ###
+
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -86,31 +87,3 @@ I am passionate about continuous learning and actively seek opportunities to col
 </picture>
 
 ---
-
-## Current Projects
-
-- **[XiaoPotato-FE](https://github.com/Appigle/XiaoPotato-FE):** Frontend development of the XiaoPotato application using TypeScript.
-- **[react-love-heart-effect](https://github.com/Appigle/react-love-heart-effect):** A React component that adds an interactive love heart effect to web applications.
-- **[svg3dtagcloud](https://github.com/Appigle/svg3dtagcloud):** A JavaScript library that creates interactive 3D tag clouds using SVG.
-
----
-
-## Fun Fact
-
-Beyond coding, I enjoy exploring new technologies and contributing to projects that enhance user experiences.
-
----
-<!--
-**Appigle/Appigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
