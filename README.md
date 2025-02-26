@@ -76,6 +76,13 @@ I am passionate about continuous learning and actively seek opportunities to col
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/lei-chen-364721320"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+  <a href="https://appigle.xiaopotato.top/"><img src="https://img.shields.io/static/v1?message=Blog&logo=blogger&label=&color=FF5722&logoColor=white&style=for-the-badge" height="35" alt="Blogger logo" /></a>
+  <a href="https://appigle.github.io/"><img src="https://img.shields.io/static/v1?message=GitHub%20Pages&logo=github&label=&color=327FC7&logoColor=white&style=for-the-badge" height="35" alt="GitHub logo" /></a>
+  <a href="https://lei.xiaopotato.top/"><img src="https://img.shields.io/static/v1?message=Website&logo=firefox&label=&color=FF7139&logoColor=white&style=for-the-badge" height="35" alt="Firefox logo" /></a>
+</div>
+
 ###
 
 <br clear="both">
