@@ -11,8 +11,8 @@
 
 I am a Senior Software Engineer specializing in developing user-friendly software solutions. My expertise spans a range of technologies, including:
 
-- **Frontend:** React, Vue.js, TypeScript, React Native
-- **Backend:** Node.js, Java, C#, SQL
+- **Frontend:** React, Vue.js, TypeScript, React Native, Next.js
+- **Backend:** Node.js, Java, C#, SQL, Python
 - **Cloud:** AWS, Terraform, Linux
 
 I am passionate about continuous learning and actively seek opportunities to collaborate within the developer community. Beyond coding, I enjoy exploring new technologies and contributing to projects that enhance user experiences.
